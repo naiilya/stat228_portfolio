@@ -1,6 +1,6 @@
 # Dear GitHub users! Welcome to My Tech. Portfolio! 
 
-My name is Nailya Alim. 
+Hi! My name is Nailya Alim. 
 
 I'm currently a junior at Simmons University majoring in Financial Mathematics, Mathematical Sciences, and Data Science.
 As an incoming AI research fellow at MIT Break Through Tech Program, I am passionate about advancing my skills in statistical modeling, supervised and unsupervised machine learning, and generative AI.
