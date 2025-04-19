@@ -24,7 +24,7 @@ As an incoming AI research fellow at MIT Break Through Tech Program, I am passio
 - **Technical Skills:**  
   - Programming languages: R, Python, SQL 
   - Data analysis: quantitative analytics, statistical modeling
-  - Other: natural language processing, supervised and unsupervised learning techniques  
+  - Other: natural language processing, supervised and unsupervised machine learning techniques  
 ---
 
 ## Site Purpose
