@@ -18,7 +18,7 @@ As an incoming AI research fellow at MIT Break Through Tech Program, I am passio
 
 ## Bio
 
-- **Major:** Financial Mathematics, Mathematical Sciences, Data Science
+- **Majors:** Financial Mathematics, Mathematical Sciences, Data Science
 - **Expected Graduation Year:** May 2026
 - **University:** Simmons University
 - **Technical Skills:**  
@@ -45,9 +45,13 @@ It serves as a dynamic portfolio to document my learning journey and share insig
   
 #### Project 2: Data Wrangling Tutorial
 - **Summary:**  
- Hands-on tutorial based on the Economic Freedom of the World Report (2022).
+  Hands-on tutorial based on the Economic Freedom of the World Report (2022).
 - **Blog Post:** [Read it here](https://github.com/naiilya/economic-freedom-world-report-miniproject2)
 
+#### Project 3: Risk Modeling with Random Forest and Logistic Regression - Final Project for the Data Science Course at Simmons
+- **Summary:**
+  Project on Predicting Loan Repayment Outcomes During GFC (Global Financial Crisis).
+- **Blog Post:** [Read it here](https://github.com/naiilya/final-project-stat228)
 ---
 
 ### Additional Projects
