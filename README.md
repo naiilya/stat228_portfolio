@@ -43,14 +43,14 @@ It serves as a dynamic portfolio to document my learning journey and share insig
   This project addresses the question “does money buy happiness?” from the perspective of the global “happiness score” and its correlation to GDP per capita.
 - **Blog Post:** [Read it here](https://github.com/naiilya/does-money-buy-happiness-miniproject1)
   
-#### Project 2: Data Wrangling Tutorial
+#### Project 2: Data Wrangling Tutorial!
 - **Summary:**  
   Hands-on tutorial based on the Economic Freedom of the World Report (2022).
 - **Blog Post:** [Read it here](https://github.com/naiilya/economic-freedom-world-report-miniproject2)
 
 #### Project 3: Risk Modeling with Random Forest and Logistic Regression.
-Final Project for the Data Science Course at Simmons
 - **Summary:**
+  Final Project for the Data Science Course at Simmons:
   Project on Predicting Loan Repayment Outcomes During GFC (Global Financial Crisis).
 - **Blog Post:** [Read it here](https://github.com/naiilya/final-project-stat228)
 ---
