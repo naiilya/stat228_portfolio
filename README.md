@@ -51,7 +51,7 @@ It serves as a dynamic portfolio to document my learning journey and share insig
 #### Project 3: Risk Modeling with Random Forest and Logistic Regression.
 - **Summary:**
   Final Project for the Data Science Course at Simmons:
-  Project on Predicting Loan Repayment Outcomes During GFC (Global Financial Crisis).
+  Project on Predicting Loan Repayment Outcomes During GFC.
 - **Blog Post:** [Read it here](https://github.com/naiilya/final-project-stat228)
 ---
 
