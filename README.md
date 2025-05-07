@@ -11,7 +11,8 @@ As an incoming AI research fellow at MIT Break Through Tech Program, I am passio
 - [Bio](#bio)
 - [Site Purpose](#site-purpose)
 - [Projects](#projects)
-  - [STAT228 Mini-Projects](#stat228-mini-projects)
+  - [Mini-Projects](#stat228-mini-projects)
+  - [Final Projects](#stat228-final-project)
   - [Additional Projects](#additional-projects)
 
 ---
