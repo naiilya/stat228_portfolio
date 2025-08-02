@@ -2,7 +2,7 @@
 
 Hi! My name is Nailya Alim. 
 
-I'm currently a junior at Simmons University majoring in Financial Mathematics, Mathematical Sciences, and Data Science.
+I'm currently a rising senior at Simmons University majoring in Financial Mathematics, Mathematical Sciences, and Data Science.
 As an AI research fellow at MIT Break Through Tech Program, I am passionate about advancing my skills in statistical modeling, supervised and unsupervised machine learning, and generative AI.
 
 ---
@@ -61,8 +61,9 @@ It serves as a dynamic portfolio to document my learning journey and share insig
 ---
 
 ### Additional Projects
-- **Summary:**
-  ML Project to predict income levels (above or below a $50K income threshold), leveraging socioeconomic features such as age, workclass, education, education level (education-num), marital status, occupation, relationship, race, self-identified gender (sex_selfID), capital gains, capital losses, hours worked per week, and native country.
-- **Blog Post:** [Read it here](https://github.com/naiilya/final-project-stat228)
 
+#### "Adult" (Census) Project for the Break Through Tech Program at Massachusetts Institute of Technology
+- **Summary:**
+Machine Learning project aimed at predicting whether individuals earn above or below the $50K income threshold by leveraging socioeconomic features.
+- **Blog Post:** [Read it here](https://github.com/naiilya/adult_census_project_MIT)
 ---
