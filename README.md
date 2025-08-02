@@ -3,7 +3,7 @@
 Hi! My name is Nailya Alim. 
 
 I'm currently a junior at Simmons University majoring in Financial Mathematics, Mathematical Sciences, and Data Science.
-As an incoming AI research fellow at MIT Break Through Tech Program, I am passionate about advancing my skills in statistical modeling, supervised and unsupervised machine learning, and generative AI.
+As an AI research fellow at MIT Break Through Tech Program, I am passionate about advancing my skills in statistical modeling, supervised and unsupervised machine learning, and generative AI.
 
 ---
 
@@ -61,6 +61,8 @@ It serves as a dynamic portfolio to document my learning journey and share insig
 ---
 
 ### Additional Projects
-- Updates coming soon!
+- **Summary:**
+  Project on Predicting Loan Repayment Outcomes During GFC.
+- **Blog Post:** [Read it here](https://github.com/naiilya/final-project-stat228)
 
 ---
