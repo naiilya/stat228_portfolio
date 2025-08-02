@@ -62,7 +62,7 @@ It serves as a dynamic portfolio to document my learning journey and share insig
 
 ### Additional Projects
 - **Summary:**
-  Project on Predicting Loan Repayment Outcomes During GFC.
+  ML Project to predict income levels (above or below a $50K income threshold), leveraging socioeconomic features such as age, workclass, education, education level (education-num), marital status, occupation, relationship, race, self-identified gender (sex_selfID), capital gains, capital losses, hours worked per week, and native country.
 - **Blog Post:** [Read it here](https://github.com/naiilya/final-project-stat228)
 
 ---
